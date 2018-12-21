@@ -2,6 +2,8 @@
 <br/>Hello there, this is a program I created to automate the action of voting on the website https://strawpoll.me.
 <br/>This works for both non-captcha and captcha strawpolls.
 <br/>
+<br/>Download: https://github.com/bditt/Strawpoll.me-Bot/releases
+<br/>
 <br/>Dependencies:
 <br/>Newtonsoft.Json. This can be installed using nuget.
 <br/>
